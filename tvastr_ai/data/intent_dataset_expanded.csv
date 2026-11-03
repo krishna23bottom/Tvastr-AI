@@ -1,0 +1,406 @@
+text,intent,source
+Help me develop a concept for a short film about loneliness.,concept_development,synthetic_seed_example
+Give me three visual concepts for an independent music video.,concept_development,synthetic_seed_example
+I have an idea about memory and regret; help me shape the story.,concept_development,synthetic_seed_example
+Suggest a creative direction for a moody fashion film.,concept_development,synthetic_seed_example
+How can I make this simple story feel original on screen?,concept_development,synthetic_seed_example
+Build a visual concept around the feeling of being watched.,concept_development,synthetic_seed_example
+I need a strong central idea for a two-minute film.,concept_development,synthetic_seed_example
+Suggest a narrative concept I can shoot with a small crew.,concept_development,synthetic_seed_example
+Help me turn this rough idea into a filmable concept.,concept_development,synthetic_seed_example
+What visual theme would suit a story about ambition?,concept_development,synthetic_seed_example
+Give me an experimental concept for a one-location short film.,concept_development,synthetic_seed_example
+Help me choose a mood and visual identity for my project.,concept_development,synthetic_seed_example
+Suggest a story idea that can be filmed on a low budget.,concept_development,synthetic_seed_example
+How can I make a simple scene communicate emotional distance?,concept_development,synthetic_seed_example
+Develop a music-video concept for an aggressive rap track.,concept_development,synthetic_seed_example
+Suggest creative shots for my rap music video.,shot_ideas,synthetic_seed_example
+What shots can I get with one actor and a parked car at night?,shot_ideas,synthetic_seed_example
+Give me a shot list for a person walking through an empty corridor.,shot_ideas,synthetic_seed_example
+How can I film a dramatic entrance?,shot_ideas,synthetic_seed_example
+Suggest unusual B-roll ideas for a streetwear video.,shot_ideas,synthetic_seed_example
+What shots would make this scene feel tense?,shot_ideas,synthetic_seed_example
+I need establishing shots for a short film set in a cafe.,shot_ideas,synthetic_seed_example
+Give me five experimental shots using reflections.,shot_ideas,synthetic_seed_example
+What can I shoot in a parking lot to make it cinematic?,shot_ideas,synthetic_seed_example
+Suggest performance coverage for a solo rapper.,shot_ideas,synthetic_seed_example
+How should I capture a person sitting alone in a room?,shot_ideas,synthetic_seed_example
+"Give me wide, medium, and close-up shot ideas for this scene.",shot_ideas,synthetic_seed_example
+Suggest shots that show a character losing control.,shot_ideas,synthetic_seed_example
+What inserts should I capture while filming a product?,shot_ideas,synthetic_seed_example
+Create a practical shot list for a low-budget music video.,shot_ideas,synthetic_seed_example
+Which camera angle makes a character look powerful?,camera_angles,synthetic_seed_example
+Should I shoot this conversation from eye level or below?,camera_angles,synthetic_seed_example
+Suggest a low angle for a dramatic artist performance.,camera_angles,synthetic_seed_example
+What angle can make a room feel intimidating?,camera_angles,synthetic_seed_example
+How do I shoot a character who feels vulnerable?,camera_angles,synthetic_seed_example
+Which camera angle works for a reveal?,camera_angles,synthetic_seed_example
+Should I use a high angle to show isolation?,camera_angles,synthetic_seed_example
+Give me an unusual angle for a fashion film.,camera_angles,synthetic_seed_example
+How can I make a simple walking shot more dynamic with angle choice?,camera_angles,synthetic_seed_example
+What camera angle works best for a product hero shot?,camera_angles,synthetic_seed_example
+Explain when to use an over-the-shoulder angle.,camera_angles,synthetic_seed_example
+How can I shoot a person to make them feel small in the frame?,camera_angles,synthetic_seed_example
+Suggest angles for a tense face-off between two characters.,camera_angles,synthetic_seed_example
+What angle should I use for a dramatic close-up?,camera_angles,synthetic_seed_example
+How do I avoid boring eye-level shots?,camera_angles,synthetic_seed_example
+How should I move the camera during this performance?,camera_movement,synthetic_seed_example
+Would a slow push-in work for an emotional reveal?,camera_movement,synthetic_seed_example
+Suggest camera movement for a high-energy music video.,camera_movement,synthetic_seed_example
+When should I use a tracking shot?,camera_movement,synthetic_seed_example
+How can I create parallax with a phone camera?,camera_movement,synthetic_seed_example
+Should this scene be handheld or locked off?,camera_movement,synthetic_seed_example
+Give me a camera movement plan for a character entering a room.,camera_movement,synthetic_seed_example
+How do I make a reveal with a slow orbit?,camera_movement,synthetic_seed_example
+What movement would create a feeling of anxiety?,camera_movement,synthetic_seed_example
+Explain the difference between a pan and a tilt.,camera_movement,synthetic_seed_example
+How can I shoot a smooth pull-back without a gimbal?,camera_movement,synthetic_seed_example
+Suggest movement for a walking fashion-film shot.,camera_movement,synthetic_seed_example
+When is a whip pan useful?,camera_movement,synthetic_seed_example
+What camera movement can make a scene feel dreamlike?,camera_movement,synthetic_seed_example
+Help me plan a simple dolly-in using available equipment.,camera_movement,synthetic_seed_example
+How can I use negative space to show loneliness?,composition,synthetic_seed_example
+Explain the rule of thirds for this portrait.,composition,synthetic_seed_example
+How do I create depth in a flat-looking frame?,composition,synthetic_seed_example
+Suggest a frame-within-a-frame composition.,composition,synthetic_seed_example
+How can leading lines improve this shot?,composition,synthetic_seed_example
+Where should I place the subject in a symmetrical frame?,composition,synthetic_seed_example
+How much headroom should I leave in a close-up?,composition,synthetic_seed_example
+How can reflections improve my composition?,composition,synthetic_seed_example
+How do I make a portrait look more cinematic?,composition,synthetic_seed_example
+Suggest a composition for a character trapped in a room.,composition,synthetic_seed_example
+How can I layer foreground and background elements?,composition,synthetic_seed_example
+When should I use a Dutch angle?,composition,synthetic_seed_example
+How do I compose a wide shot with a single subject?,composition,synthetic_seed_example
+How can I make a frame feel balanced but not static?,composition,synthetic_seed_example
+Give me composition ideas for a night street scene.,composition,synthetic_seed_example
+What shutter speed should I use when filming at 24 fps?,camera_settings,synthetic_seed_example
+"Explain ISO, aperture, and shutter speed for video.",camera_settings,synthetic_seed_example
+What settings should I use for slow motion?,camera_settings,synthetic_seed_example
+How do I avoid overexposing a sunny outdoor shot?,camera_settings,synthetic_seed_example
+When should I use an ND filter?,camera_settings,synthetic_seed_example
+What white balance should I set for a tungsten-lit room?,camera_settings,synthetic_seed_example
+Should I shoot in Log or a standard profile?,camera_settings,synthetic_seed_example
+How can I get correct exposure on a phone camera?,camera_settings,synthetic_seed_example
+What frame rate is suitable for a cinematic short film?,camera_settings,synthetic_seed_example
+Why does my footage look noisy in low light?,camera_settings,synthetic_seed_example
+How do I choose aperture for a shallow depth of field?,camera_settings,synthetic_seed_example
+What is the 180-degree shutter rule?,camera_settings,synthetic_seed_example
+How can I keep exposure consistent between shots?,camera_settings,synthetic_seed_example
+Which focus mode is best for a moving subject?,camera_settings,synthetic_seed_example
+Explain the trade-off between high ISO and image noise.,camera_settings,synthetic_seed_example
+How can I light an interview with one LED light?,lighting,synthetic_seed_example
+Suggest a low-budget lighting setup for a dark music video.,lighting,synthetic_seed_example
+How do I create a rim light around the subject?,lighting,synthetic_seed_example
+What is negative fill and when should I use it?,lighting,synthetic_seed_example
+How can I make window light look cinematic?,lighting,synthetic_seed_example
+How do I create a silhouette without losing the mood?,lighting,synthetic_seed_example
+Suggest lighting for a tense scene in a bedroom.,lighting,synthetic_seed_example
+How can I soften a harsh light source?,lighting,synthetic_seed_example
+How do I light a face with a practical lamp in frame?,lighting,synthetic_seed_example
+Give me a three-point lighting setup for a beginner.,lighting,synthetic_seed_example
+How can I create dramatic shadows on a wall?,lighting,synthetic_seed_example
+What lighting works for a night exterior with a car?,lighting,synthetic_seed_example
+How do I balance daylight and indoor lighting?,lighting,synthetic_seed_example
+How can I make a product look premium with one light?,lighting,synthetic_seed_example
+Explain the difference between hard light and soft light.,lighting,synthetic_seed_example
+My footage looks flat; how should I start grading it?,color_grading,synthetic_seed_example
+Explain color correction versus color grading.,color_grading,synthetic_seed_example
+"Suggest a dark, gritty color palette for a rap video.",color_grading,synthetic_seed_example
+How can I keep skin tones natural in a teal-and-orange look?,color_grading,synthetic_seed_example
+How do I make daylight footage feel nostalgic?,color_grading,synthetic_seed_example
+What should I check before increasing saturation?,color_grading,synthetic_seed_example
+How can I match shots recorded under different lighting?,color_grading,synthetic_seed_example
+Suggest a warm vintage look for a short film.,color_grading,synthetic_seed_example
+"How do I create a cold, isolated visual mood with color?",color_grading,synthetic_seed_example
+Why do my shadows look muddy after grading?,color_grading,synthetic_seed_example
+How can I make highlights roll off more naturally?,color_grading,synthetic_seed_example
+What is a good starting point for Rec.709 footage?,color_grading,synthetic_seed_example
+How can I create visual consistency across a music video?,color_grading,synthetic_seed_example
+"Suggest colors for a dreamy, surreal scene.",color_grading,synthetic_seed_example
+How do I avoid making a cinematic grade look oversaturated?,color_grading,synthetic_seed_example
+How should I cut this scene to the beat?,editing,synthetic_seed_example
+Explain J-cuts and L-cuts with a simple example.,editing,synthetic_seed_example
+How can I improve the pacing of my short film?,editing,synthetic_seed_example
+When should I use a match cut?,editing,synthetic_seed_example
+Suggest an edit structure for a 30-second reel.,editing,synthetic_seed_example
+How do I build tension through shot duration?,editing,synthetic_seed_example
+Should I use jump cuts in this performance video?,editing,synthetic_seed_example
+How can I make a montage feel less repetitive?,editing,synthetic_seed_example
+Where should I place reaction shots in a conversation?,editing,synthetic_seed_example
+How do I organize footage before editing?,editing,synthetic_seed_example
+Suggest a transition between two different locations.,editing,synthetic_seed_example
+How can I use a speed ramp without overdoing it?,editing,synthetic_seed_example
+What is the difference between a rough cut and a fine cut?,editing,synthetic_seed_example
+How do I edit a scene to feel disorienting?,editing,synthetic_seed_example
+Help me plan a music-driven edit for a 150 BPM track.,editing,synthetic_seed_example
+What ambient sounds should I record for this location?,sound_design,synthetic_seed_example
+How can room tone improve my dialogue edit?,sound_design,synthetic_seed_example
+Suggest sound design for a tense empty hallway.,sound_design,synthetic_seed_example
+How do I record clean dialogue in a noisy room?,sound_design,synthetic_seed_example
+What Foley sounds could make footsteps more convincing?,sound_design,synthetic_seed_example
+How can silence make this scene more powerful?,sound_design,synthetic_seed_example
+Explain how to use a J-cut with sound.,sound_design,synthetic_seed_example
+Suggest layered sound effects for a dark music video.,sound_design,synthetic_seed_example
+How do I reduce distracting background noise in production?,sound_design,synthetic_seed_example
+What should I capture for a useful location sound library?,sound_design,synthetic_seed_example
+How can I make a transition work through sound rather than visuals?,sound_design,synthetic_seed_example
+Suggest ambience for a night-time parking lot scene.,sound_design,synthetic_seed_example
+"How do I balance dialogue, music, and effects?",sound_design,synthetic_seed_example
+What is the purpose of recording room tone?,sound_design,synthetic_seed_example
+How can sound build anticipation before a reveal?,sound_design,synthetic_seed_example
+Turn this scene into a numbered shot list.,storyboarding_shotlist,synthetic_seed_example
+Create a storyboard plan for a character entering a house.,storyboarding_shotlist,synthetic_seed_example
+"Make a shot list with shot type, movement, purpose, and location.",storyboarding_shotlist,synthetic_seed_example
+How should I break this script into visual beats?,storyboarding_shotlist,synthetic_seed_example
+Help me plan coverage for a two-person dialogue scene.,storyboarding_shotlist,synthetic_seed_example
+Create a simple storyboard outline for a product film.,storyboarding_shotlist,synthetic_seed_example
+What information should each row in a shot list contain?,storyboarding_shotlist,synthetic_seed_example
+Organize these scene ideas into a shooting order.,storyboarding_shotlist,synthetic_seed_example
+Give me a shot-by-shot plan for a 20-second reel.,storyboarding_shotlist,synthetic_seed_example
+How can I plan continuity between shots before filming?,storyboarding_shotlist,synthetic_seed_example
+Build a practical shot list for a one-person crew.,storyboarding_shotlist,synthetic_seed_example
+Turn this music-video concept into a sequence of scenes.,storyboarding_shotlist,synthetic_seed_example
+What should I include in a storyboard for a low-budget film?,storyboarding_shotlist,synthetic_seed_example
+Help me group shots by location to save production time.,storyboarding_shotlist,synthetic_seed_example
+Create a coverage plan for a short emotional scene.,storyboarding_shotlist,synthetic_seed_example
+Plan a cinematic music video for an aggressive hip-hop track.,music_video_mode,synthetic_seed_example
+What B-roll should I capture for a rapper performing outdoors?,music_video_mode,synthetic_seed_example
+How can I build visual motifs around the song lyrics?,music_video_mode,synthetic_seed_example
+Suggest a music-video concept with one artist and one car.,music_video_mode,synthetic_seed_example
+How should I synchronize cuts with important beats?,music_video_mode,synthetic_seed_example
+Give me performance coverage ideas for a low-budget rap video.,music_video_mode,synthetic_seed_example
+How can I make a music video feel coherent across several locations?,music_video_mode,synthetic_seed_example
+Suggest visual ideas for a melancholic song.,music_video_mode,synthetic_seed_example
+How can camera movement reflect the energy of a track?,music_video_mode,synthetic_seed_example
+Plan a night shoot for an independent hip-hop artist.,music_video_mode,synthetic_seed_example
+What recurring visual symbol could connect the verses and hook?,music_video_mode,synthetic_seed_example
+How do I combine performance footage with narrative scenes?,music_video_mode,synthetic_seed_example
+"Suggest transitions that fit a fast, distorted beat.",music_video_mode,synthetic_seed_example
+Create a shot plan for a one-minute music-video teaser.,music_video_mode,synthetic_seed_example
+How can wardrobe and lighting support an artist's visual identity?,music_video_mode,synthetic_seed_example
+My footage is shaky; what can I do?,troubleshooting,synthetic_seed_example
+My video looks too dark even after editing; what should I check?,troubleshooting,synthetic_seed_example
+Why does my footage flicker under indoor lights?,troubleshooting,synthetic_seed_example
+My clips have different colors; how can I match them?,troubleshooting,synthetic_seed_example
+The subject is out of focus; how can I prevent this next time?,troubleshooting,synthetic_seed_example
+My audio has echo; how can I improve the recording setup?,troubleshooting,synthetic_seed_example
+My shots look boring; what should I change first?,troubleshooting,synthetic_seed_example
+Why does my slow-motion footage look choppy?,troubleshooting,synthetic_seed_example
+My highlights are blown out; can grading recover them?,troubleshooting,synthetic_seed_example
+My footage looks noisy at night; how can I reduce the problem?,troubleshooting,synthetic_seed_example
+The camera keeps changing exposure during a shot; what can I do?,troubleshooting,synthetic_seed_example
+My edit feels too fast; how do I fix the pacing?,troubleshooting,synthetic_seed_example
+My handheld footage feels messy; how can I make it intentional?,troubleshooting,synthetic_seed_example
+The skin tones look unnatural after grading; what should I check?,troubleshooting,synthetic_seed_example
+My export looks softer than the timeline; what settings should I review?,troubleshooting,synthetic_seed_example
+What export settings should I use for Instagram Reels?,export_delivery,synthetic_seed_example
+How should I export a 4K video for YouTube?,export_delivery,synthetic_seed_example
+What aspect ratio should I use for a vertical short?,export_delivery,synthetic_seed_example
+How can I reframe horizontal footage for a vertical video?,export_delivery,synthetic_seed_example
+What bitrate should I consider for a high-quality export?,export_delivery,synthetic_seed_example
+How do I avoid black bars when exporting a vertical reel?,export_delivery,synthetic_seed_example
+Which video format is practical for client delivery?,export_delivery,synthetic_seed_example
+How should I prepare a final video for a portfolio website?,export_delivery,synthetic_seed_example
+What should I check before delivering a music video?,export_delivery,synthetic_seed_example
+How can I export a clean review copy for a client?,export_delivery,synthetic_seed_example
+Why does my exported video look washed out on my phone?,export_delivery,synthetic_seed_example
+How do I choose between 24 fps and 30 fps for delivery?,export_delivery,synthetic_seed_example
+What should I name and organize final export versions?,export_delivery,synthetic_seed_example
+How can I maintain quality when uploading a reel?,export_delivery,synthetic_seed_example
+Give me a final quality-control checklist before export.,export_delivery,synthetic_seed_example
+What budget gear do I need to shoot a short film?,equipment,synthetic_seed_example
+Can I shoot a cinematic music video using only a phone?,equipment,synthetic_seed_example
+What lens would suit a portrait-focused music video?,equipment,synthetic_seed_example
+Do I need a gimbal for smooth tracking shots?,equipment,synthetic_seed_example
+How can I stabilize a camera without buying new gear?,equipment,synthetic_seed_example
+What inexpensive light should I buy for interviews?,equipment,synthetic_seed_example
+What accessories are useful for recording production sound?,equipment,synthetic_seed_example
+How do I choose a tripod for video work?,equipment,synthetic_seed_example
+What is the difference between a prime lens and a zoom lens?,equipment,synthetic_seed_example
+What minimal equipment would you recommend for a solo creator?,equipment,synthetic_seed_example
+Can a reflector replace a fill light?,equipment,synthetic_seed_example
+What should I check before renting a camera?,equipment,synthetic_seed_example
+How can I record better audio on a limited budget?,equipment,synthetic_seed_example
+What gear is useful for shooting at night?,equipment,synthetic_seed_example
+Help me prioritize equipment purchases for a beginner filmmaker.,equipment,synthetic_seed_example
+"I want to make a film about a boy who leaves his village, how do I find the story?",concept_development,expansion_set_1
+Help me come up with a theme for my college short film,concept_development,expansion_set_1
+What is a good idea for a film I can shoot in one day?,concept_development,expansion_set_1
+"I have a character but no plot, help me build the concept",concept_development,expansion_set_1
+Suggest a unique idea for a documentary about street vendors,concept_development,expansion_set_1
+How do I turn the idea of time passing into a visual story?,concept_development,expansion_set_1
+Give me film ideas based on the feeling of nostalgia,concept_development,expansion_set_1
+I need a concept for a brand film with no actors,concept_development,expansion_set_1
+Help me decide the tone and message of my project,concept_development,expansion_set_1
+What story can I tell with only two characters and one room?,concept_development,expansion_set_1
+Suggest a twist ending for my short film idea,concept_development,expansion_set_1
+How do I develop my rough idea into a full treatment?,concept_development,expansion_set_1
+What creative shots can I use for a chase scene?,shot_ideas,expansion_set_1
+Give me shot ideas for an emotional close conversation,shot_ideas,expansion_set_1
+Which shots will make my rooftop scene look cool?,shot_ideas,expansion_set_1
+I need interesting b-roll ideas for a cafe,shot_ideas,expansion_set_1
+Suggest some unusual shots using a mirror,shot_ideas,expansion_set_1
+What shots should I get for a product video of shoes?,shot_ideas,expansion_set_1
+Give me ideas for opening shots of a city film,shot_ideas,expansion_set_1
+How can I shoot a simple walking scene in a more interesting way?,shot_ideas,expansion_set_1
+What are some good transition shots between scenes?,shot_ideas,expansion_set_1
+Suggest shots to show a character's fear,shot_ideas,expansion_set_1
+What shots do I need to cover a dialogue scene?,shot_ideas,expansion_set_1
+Give me experimental shot ideas for my rap video,shot_ideas,expansion_set_1
+What angle makes a villain look scary?,camera_angles,expansion_set_1
+Should I shoot from above or below for a sad scene?,camera_angles,expansion_set_1
+When do I use a Dutch angle?,camera_angles,expansion_set_1
+Which camera angle makes the actor look powerful?,camera_angles,expansion_set_1
+How high should the camera be for an interview?,camera_angles,expansion_set_1
+What does a high angle shot communicate?,camera_angles,expansion_set_1
+Which angle works best for a phone conversation scene?,camera_angles,expansion_set_1
+Explain over the shoulder and POV angles,camera_angles,expansion_set_1
+What angle should I use to make a small character look lost?,camera_angles,expansion_set_1
+Is eye level better for a documentary interview?,camera_angles,expansion_set_1
+How do I shoot a person from a low angle without a weird face?,camera_angles,expansion_set_1
+Which angles are best for a car interior scene?,camera_angles,expansion_set_1
+When should I use a dolly zoom?,camera_movement,expansion_set_1
+How do I do a smooth tracking shot with a phone?,camera_movement,expansion_set_1
+What is the difference between a pan and a tilt?,camera_movement,expansion_set_1
+How can I make a whip pan transition?,camera_movement,expansion_set_1
+Should this scene be handheld or on a tripod?,camera_movement,expansion_set_1
+How do I shoot an orbit shot around my subject?,camera_movement,expansion_set_1
+How can I do a push in without a slider?,camera_movement,expansion_set_1
+What does a slow crane shot mean emotionally?,camera_movement,expansion_set_1
+How do I stabilize walking shots without a gimbal?,camera_movement,expansion_set_1
+What camera movement suits a tense scene?,camera_movement,expansion_set_1
+How do I do a rack focus pull?,camera_movement,expansion_set_1
+Explain how to move the camera for a reveal,camera_movement,expansion_set_1
+How do I use the rule of thirds in my frame?,composition,expansion_set_1
+How much headroom should I leave for a close-up?,composition,expansion_set_1
+What is negative space and how can I use it?,composition,expansion_set_1
+How do I use leading lines in a street scene?,composition,expansion_set_1
+Make my frame look more balanced and symmetrical,composition,expansion_set_1
+How do I compose a shot of two people talking?,composition,expansion_set_1
+How can I add depth to a flat looking frame?,composition,expansion_set_1
+What is lead room and when do I need it?,composition,expansion_set_1
+How do I frame a silhouette against the sunset?,composition,expansion_set_1
+How do I compose a wide shot so the subject is not lost?,composition,expansion_set_1
+Tips to frame a portrait inside a doorway,composition,expansion_set_1
+Where should I place the subject in a vertical video?,composition,expansion_set_1
+What ISO and shutter should I use at night?,camera_settings,expansion_set_1
+Which frame rate should I use for slow motion?,camera_settings,expansion_set_1
+How do I set white balance for a mixed lighting room?,camera_settings,expansion_set_1
+When should I use an ND filter?,camera_settings,expansion_set_1
+What aperture gives a blurry background?,camera_settings,expansion_set_1
+What is the difference between Log and Rec.709?,camera_settings,expansion_set_1
+Which shutter speed is right for 24 fps?,camera_settings,expansion_set_1
+Best camera settings for shooting indoors with a window,camera_settings,expansion_set_1
+How do I expose correctly using zebras?,camera_settings,expansion_set_1
+What bitrate and resolution should I record in?,camera_settings,expansion_set_1
+Should I shoot in RAW or H.265 for a short film?,camera_settings,expansion_set_1
+How do I set up my Sony camera for cinematic video?,camera_settings,expansion_set_1
+How do I set up three point lighting?,lighting,expansion_set_1
+How can I make soft light with just a window?,lighting,expansion_set_1
+What is a motivated light source?,lighting,expansion_set_1
+How do I light a dark moody scene at night?,lighting,expansion_set_1
+How do I create a rim light with a cheap lamp?,lighting,expansion_set_1
+What is the difference between hard and soft light?,lighting,expansion_set_1
+How do I light a person's face evenly for an interview?,lighting,expansion_set_1
+How can I use neon or practical lights in my shot?,lighting,expansion_set_1
+How do I do low key lighting for a thriller?,lighting,expansion_set_1
+Which light direction is best for a dramatic portrait?,lighting,expansion_set_1
+How do I use a reflector to fill shadows?,lighting,expansion_set_1
+How can I light a scene inside a car at night?,lighting,expansion_set_1
+How do I get a teal and orange look?,color_grading,expansion_set_1
+Why do my skin tones look orange after grading?,color_grading,expansion_set_1
+How do I make my footage look more cinematic with color?,color_grading,expansion_set_1
+What is the difference between color correction and color grading?,color_grading,expansion_set_1
+How do I give my video a warm nostalgic feel?,color_grading,expansion_set_1
+Which LUT should I use for a gritty look?,color_grading,expansion_set_1
+How do I match colors between two different cameras?,color_grading,expansion_set_1
+How do I grade Log footage in DaVinci Resolve?,color_grading,expansion_set_1
+How do I make my shadows look cooler and highlights warmer?,color_grading,expansion_set_1
+How do I create a desaturated moody look?,color_grading,expansion_set_1
+Explain curves and color wheels for beginners,color_grading,expansion_set_1
+How do I use scopes while grading?,color_grading,expansion_set_1
+How do I edit a conversation scene?,editing,expansion_set_1
+How do I make my cuts feel smoother?,editing,expansion_set_1
+What is a J cut and L cut?,editing,expansion_set_1
+How do I create a montage?,editing,expansion_set_1
+How can I speed up the pacing of my video?,editing,expansion_set_1
+When should I use a jump cut?,editing,expansion_set_1
+How do I cut a fight scene so it feels intense?,editing,expansion_set_1
+How do I choose the best takes for my rough cut?,editing,expansion_set_1
+How do I edit a video to match the beat of the music?,editing,expansion_set_1
+What is the right order to build a rough cut then fine cut?,editing,expansion_set_1
+How do I use speed ramps in Premiere?,editing,expansion_set_1
+Tips for cutting a documentary interview with b-roll,editing,expansion_set_1
+How do I record clean dialogue?,sound_design,expansion_set_1
+What is room tone and why do I need it?,sound_design,expansion_set_1
+How do I add Foley sounds to my film?,sound_design,expansion_set_1
+How can I make the ambience feel realistic?,sound_design,expansion_set_1
+How do I mix music and dialogue so voices are clear?,sound_design,expansion_set_1
+How do I remove background noise from audio?,sound_design,expansion_set_1
+What sound effects make a scene feel tense?,sound_design,expansion_set_1
+Where can I use silence for effect?,sound_design,expansion_set_1
+How do I place a lav mic on an actor?,sound_design,expansion_set_1
+How do I layer sound effects for a car passing?,sound_design,expansion_set_1
+How do I sync external audio with my video?,sound_design,expansion_set_1
+What microphone should I use to record voiceover?,sound_design,expansion_set_1
+How do I make a shot list for my short film?,storyboarding_shotlist,expansion_set_1
+Can you help me create a storyboard for a two minute scene?,storyboarding_shotlist,expansion_set_1
+What should be included in a shot list?,storyboarding_shotlist,expansion_set_1
+How do I plan my shots before the shoot day?,storyboarding_shotlist,expansion_set_1
+Make a shot list for a coffee shop scene,storyboarding_shotlist,expansion_set_1
+How can I storyboard if I can't draw?,storyboarding_shotlist,expansion_set_1
+How do I organize my shooting schedule by location?,storyboarding_shotlist,expansion_set_1
+Break this scene into a list of shots,storyboarding_shotlist,expansion_set_1
+How do I draw a simple storyboard frame with camera notes?,storyboarding_shotlist,expansion_set_1
+What apps can I use for storyboarding?,storyboarding_shotlist,expansion_set_1
+How many shots should one scene have?,storyboarding_shotlist,expansion_set_1
+Help me prepare a shot list for a music video,storyboarding_shotlist,expansion_set_1
+Give me ideas for a rap video with one artist,music_video_mode,expansion_set_1
+How do I shoot performance footage for a song?,music_video_mode,expansion_set_1
+How do I cut my music video to the beat?,music_video_mode,expansion_set_1
+What b-roll should I add to a music video?,music_video_mode,expansion_set_1
+How do I plan a lip sync shoot?,music_video_mode,expansion_set_1
+Suggest visual motifs for a sad love song video,music_video_mode,expansion_set_1
+How do I shoot a music video on a low budget?,music_video_mode,expansion_set_1
+What is a good concept for an indie pop video?,music_video_mode,expansion_set_1
+How do I make a hip hop video look aggressive and dark?,music_video_mode,expansion_set_1
+How many locations do I need for a music video?,music_video_mode,expansion_set_1
+How do I shoot multiple takes to sync with the track?,music_video_mode,expansion_set_1
+Ideas for a lyric video style edit,music_video_mode,expansion_set_1
+"My video looks too grainy, how do I fix it?",troubleshooting,expansion_set_1
+Why is my footage flickering?,troubleshooting,expansion_set_1
+"My footage is out of focus, can I fix it in post?",troubleshooting,expansion_set_1
+Why does my video look washed out?,troubleshooting,expansion_set_1
+How do I fix shaky footage?,troubleshooting,expansion_set_1
+My audio is out of sync with the video,troubleshooting,expansion_set_1
+Why are my highlights blown out?,troubleshooting,expansion_set_1
+The footage looks too dark and noisy,troubleshooting,expansion_set_1
+Why do I see banding in my video?,troubleshooting,expansion_set_1
+How do I fix a color cast in my shot?,troubleshooting,expansion_set_1
+My exported video looks different from the timeline,troubleshooting,expansion_set_1
+How do I fix a bad white balance in post?,troubleshooting,expansion_set_1
+What export settings should I use for YouTube?,export_delivery,expansion_set_1
+How do I export for Instagram Reels?,export_delivery,expansion_set_1
+How do I change a horizontal video into vertical?,export_delivery,expansion_set_1
+What resolution and codec should I deliver to a client?,export_delivery,expansion_set_1
+How do I reduce my file size without losing quality?,export_delivery,expansion_set_1
+What is the best format for TikTok?,export_delivery,expansion_set_1
+How do I export in 4K from Premiere?,export_delivery,expansion_set_1
+What aspect ratio should I use for Shorts?,export_delivery,expansion_set_1
+How do I reframe my video for different platforms?,export_delivery,expansion_set_1
+What loudness should my final export be?,export_delivery,expansion_set_1
+Which codec is best for archive masters?,export_delivery,expansion_set_1
+How do I add subtitles before exporting?,export_delivery,expansion_set_1
+What camera should I buy for filmmaking on a budget?,equipment,expansion_set_1
+Which lens is best for portraits and interviews?,equipment,expansion_set_1
+Do I need a gimbal or a tripod?,equipment,expansion_set_1
+What is the best microphone for run and gun shooting?,equipment,expansion_set_1
+Can I make a film with only my phone?,equipment,expansion_set_1
+What lights should a beginner buy?,equipment,expansion_set_1
+What is a good starter filmmaking kit?,equipment,expansion_set_1
+Should I buy a prime lens or a zoom lens?,equipment,expansion_set_1
+What accessories do I need for my mirrorless camera?,equipment,expansion_set_1
+Which ND filter should I buy?,equipment,expansion_set_1
+What is the difference between a shotgun mic and a lav mic?,equipment,expansion_set_1
+What equipment do I need for a wedding shoot?,equipment,expansion_set_1
